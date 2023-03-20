@@ -46,7 +46,7 @@ def setCookieToBrowser(driver:webdriver.Chrome, cookie_:str):
 
 
 # cookie list
-cookies = ['sb=rc6wYnTIH0ygSbXJ9qpIazuj; datr=rc6wYpwZaQxIM6GJjsMvdOau; c_user=100029745455196; dpr=0.8999999761581421; wd=1399x759; usida=eyJ2ZXIiOjEsImlkIjoiQXJydHEzMjExOXd3cHQiLCJ0aW1lIjoxNjc5MzIzMjE0fQ%3D%3D; i_user=100069210414528; presence=EDvF3EtimeF1679325288EuserFA21B29745455196A2EstateFDutF0CEchF_7bCC; m_page_voice=100069210414528; xs=21%3Ax_lJlVsvXtin_Q%3A2%3A1679244423%3A-1%3A6300%3A%3AAcWQ83-nyUigbnOMzodlDxOOUz4RHNrLEuX0wt_PKQ; fr=00PWILNoupu3ezkS8.AWUkGTIp5fyIfu37cS0BHnFUDo0.BkGHyu.GB.AAA.0.0.BkGHyu.AWUU5-kcOls']
+cookies = ['']
 folderVideo = 'videos'
 captions = ['hi','abc']
 delay_click = 3
